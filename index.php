@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <title>DIVIDED - Free OARPG Game</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+	    <meta name="description" content="A free, Online Action Role Play Game made by only One Person!">
+	    <meta name="keywords" content="A free, Online Action Role Play Game made by only One Person!">
+		<meta name="author" content="YoshiNo">
+	    <meta name="robots" content="index, follow">
+        <meta name="google-site-verification" content="qbhm9kcEOcETQfVwUtfcr-i68Uem_uq50YtRpDnifJg" />
+	    <!-- Fav Icons -->
+	        <link rel="apple-touch-icon-precomposed" sizes="57x57" href="../temp/favicon/apple-touch-icon-57x57.png" />
+            <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../temp/favicon/apple-touch-icon-114x114.png" />
+            <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../temp/favicon/apple-touch-icon-72x72.png" />
+            <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../temp/favicon/apple-touch-icon-144x144.png" />
+            <link rel="apple-touch-icon-precomposed" sizes="60x60" href="../temp/favicon/apple-touch-icon-60x60.png" />
+            <link rel="apple-touch-icon-precomposed" sizes="120x120" href="../temp/favicon/apple-touch-icon-120x120.png" />
+            <link rel="apple-touch-icon-precomposed" sizes="76x76" href="../temp/favicon/apple-touch-icon-76x76.png" />
+            <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../temp/favicon/apple-touch-icon-152x152.png" />
+            <link rel="icon" type="image/png" href="../temp/favicon/favicon-196x196.png" sizes="196x196" />
+            <link rel="icon" type="image/png" href="../temp/favicon/favicon-96x96.png" sizes="96x96" />
+            <link rel="icon" type="image/png" href="../temp/favicon/favicon-32x32.png" sizes="32x32" />
+            <link rel="icon" type="image/png" href="../temp/favicon/favicon-16x16.png" sizes="16x16" />
+            <link rel="icon" type="image/png" href="../temp/favicon/favicon-128.png" sizes="128x128" />
+            <meta name="application-name" content="&nbsp;"/>
+            <meta name="msapplication-TileColor" content="#FFFFFF" />
+            <meta name="msapplication-TileImage" content="../temp/favicon/mstile-144x144.png" />
+            <meta name="msapplication-square70x70logo" content="../temp/favicon/mstile-70x70.png" />
+            <meta name="msapplication-square150x150logo" content="../temp/favicon/mstile-150x150.png" />
+            <meta name="msapplication-wide310x150logo" content="../temp/favicon/mstile-310x150.png" />
+            <meta name="msapplication-square310x310logo" content="../temp/favicon/mstile-310x310.png" />
+	    <!-- /Fav Icons -->
+	    <link rel="stylesheet" href="temp/css/styles.css">
+		<link rel="stylesheet" href="temp/css/slider.css">
+        <!--[if IE]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->	
+    </head>
+    <body>
+	    <div id="container">
+            <div id="header" class="header">
+			    <a href="#" id="logo"></a>
+			    <nav>
+					<a href="#" id="menu-icon"></a>
+					<ul>
+                        <li><a href="#">NEWS</a></li>
+                        <li><a href="#">MEDIA</a></li>
+                        <li><a href="#">ACCOUNT</a></li>
+					    <li><a class="mark" href="#">SIGN UP</a></li>
+					    <li><a class="mark" href="#">PLAY NOW</a></li>
+					</ul>
+				</nav>
+            </div>
+            <div id="body">
+				<div class='slider'>
+                    <div class='slide1'></div>
+                    <div class='slide2'></div>
+                    <div class='slide3'></div>	
+					<div class="msg_">
+					    <h1>DIVIDED</h1>
+						<hr>
+						<h3>It's the time to fight all of your fears and</h3>
+						<h3>nightmares across the space and time.</h3>
+						<br>
+						<a href="#">PLAY NOW</a>
+					</div>
+                </div>
+                <div id="article">
+                    <div id="intro">
+                        <h1>ARRIVING SOON!</h1>
+                        <p>DIVIDED is an epic, story-driven Online Action Role Play Game</p>
+						<p>made by only one person, a game that is trying to achieve a retro feeling</p> 
+						<p>in a modern era of gaming!</p>
+                    </div>
+                </div>
+            </div>
+            <div id="footer">
+			    <ul>
+				    <li><a href="https://pegi.info/" target="_blank"><img src="https://pegi.info/sites/default/files/styles/medium/public/2017-03/pegi16.png" id="PEGI" height="84px"></a></li>
+					<li><a href="https://godotengine.org/" target="_blank"><img src="https://godotengine.org/themes/godotengine/assets/logo.svg" id="Godot" height="84px"></a></li>
+				</ul>
+				<br></br>
+			    <ul>
+                    <li><a href="#">Terms of Service</a></li>
+					<li>|</li>
+                    <li><a href="#">Privacy Policy</a></li>
+					<li>|</li>
+                    <li><a href="#">Contact</a></li>
+					<li>|</li>
+                    <li><a href="#">Support</a></li>
+                </ul>
+                <p>Copyright (©) 2019.</p>
+				<p>All games and characters are trademarks of <a href = "mailto: geowolfy98@gmail.com">GeoWolfy98</a> .</p>
+				<p>All Rights Reserved. All wrongs avenged by mad demons with chainsaws.</p>
+            </div>
+        </div>
+    </body>
+</html>
